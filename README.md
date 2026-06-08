@@ -1,4 +1,4 @@
-# Banking Transactions Service
+# ebx-account-service
 
 REST API built with Java and Spring Boot for processing banking transactions, including deposits, withdrawals, and transfers between accounts.
 
